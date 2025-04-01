@@ -1,0 +1,16 @@
+# .gitignore
+
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+
+# SSH keys
+*.pem
+
+# Logs
+*.log
+
+# OS/System files
+.DS_Store
+Thumbs.db
